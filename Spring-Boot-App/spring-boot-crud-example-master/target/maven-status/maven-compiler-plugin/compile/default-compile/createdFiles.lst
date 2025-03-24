@@ -1,0 +1,5 @@
+com\javatechie\crud\example\repository\ProductRepository.class
+com\javatechie\crud\example\service\ProductService.class
+com\javatechie\crud\example\controller\ProductController.class
+com\javatechie\crud\example\entity\Product.class
+com\javatechie\crud\example\SpringBootCrudExample2Application.class
